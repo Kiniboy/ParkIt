@@ -1,11 +1,24 @@
-"# ParkIt" 
+# hello-world
 
-- Informations Générales :
+## Project setup
+```
+npm install
+```
 
-Développement d'une application mobile Vue.Js (RIL19)
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-- Démarrage :
+### Compiles and minifies for production
+```
+npm run build
+```
 
-- Auteurs :
+### Lints and fixes files
+```
+npm run lint
+```
 
-- License :
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
